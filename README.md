@@ -34,7 +34,7 @@ The analysis helps identify top-performing markets, discount impacts, and season
 ---
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Dashboard.png)
 
 ---
 
