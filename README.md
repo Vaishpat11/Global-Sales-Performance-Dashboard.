@@ -1,4 +1,4 @@
-# Global Sales Performance Dashboard
+# Global Finance and Sales Performance Dashboard
 
 ### Author: **Vaishnavi Patil**
 
